@@ -1,3 +1,4 @@
 # go-scaffold
 
-一个go的脚手架
+一个go web的脚手架
+
